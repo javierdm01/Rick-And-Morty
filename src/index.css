@@ -30,3 +30,16 @@ a{
   text-decoration: none;
   font-weight: 600;
 }
+main{
+  text-align: center;
+}
+.actors{
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  width: 96%;
+  
+}
+.card__actors{
+  width: 32%;
+}

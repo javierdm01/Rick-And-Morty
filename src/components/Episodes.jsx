@@ -1,7 +1,14 @@
+import { EpisodesCard } from "./EpisodesCard";
 
 
 export function Episodes(){
     return(
-        <h2>Episodes</h2>
+        <>
+        <h1>Episodes</h1>
+        <div>
+            <EpisodesCard/>
+        </div>
+        
+        </>
     )
 }

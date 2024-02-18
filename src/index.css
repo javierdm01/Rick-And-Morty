@@ -43,3 +43,14 @@ main{
 .card__actors{
   width: 32%;
 }
+.episodes__cards{
+  width: 27%;
+  border: 1px solid grey;
+  padding: 7px 15px;
+}
+.episodes__list{
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
